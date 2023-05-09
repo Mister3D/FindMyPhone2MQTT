@@ -1,3 +1,4 @@
 *.png
 cookies/*.json
 node_modules
+*.html
