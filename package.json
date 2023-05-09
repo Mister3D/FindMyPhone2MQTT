@@ -1,0 +1,18 @@
+{
+  "name": "findphone2mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^4.3.7",
+    "nodemon": "^2.0.22",
+    "selenium-webdriver": "^4.9.0",
+    "xvfb": "^0.4.0"
+  }
+}
